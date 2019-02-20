@@ -1,0 +1,10 @@
+#app.name=demo3
+#app.description=${app.name} is spring boot application
+#name=demo3bean
+server:
+	port:8090
+	
+demo3:
+	name: demo3
+	description: demo3 spring boot application
+	address: localhost

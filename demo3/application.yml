@@ -1,0 +1,7 @@
+#server:
+#port: 8090
+ 
+demo3:
+ name: demo3
+ description: demo3 spring boot application
+ address: localhost
